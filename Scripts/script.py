@@ -27,12 +27,7 @@ def getArguments():
         help="Indicate the full path to the zipped CSV file."
     )
     
-    # Indicate product ID associated to CSV
-    parser.add_argument(
-        "productID",
-        help="Indicate the full path to the zipped CSV file."
-    )
-    
+   
     
     # Verbosity flag
     parser.add_argument(
@@ -55,6 +50,6 @@ if __name__ == "__main__":
     # Get arguments
     options = getArguments()
     path_to_csv = options.path
-    csv_prdo_ID = options.productID
+
     
     # Your code here 
