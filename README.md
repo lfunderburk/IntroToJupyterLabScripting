@@ -8,4 +8,6 @@ Requirements
 Bring your own laptop.
 Install Anaconda (or Miniconda). Install JupyterLab onto your laptop prior to attending workshop.
 
+Workshop facilitated in conjunction with the Research Commons at SFU
 
+https://www.lib.sfu.ca/about/branches-depts/rc/services/workshops/python-scripting-and-visualization-using-jupyterlab
